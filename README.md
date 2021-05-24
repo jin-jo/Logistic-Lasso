@@ -1,4 +1,5 @@
 # Logistic-Lasso
+## Logistic Regression Model based on Lasso(Least absolute shrinkage and selection operator)
 
 - I made functions to compute the logistic Lasso using coordinate descent on the penalized iteratively reweighted least squares algorithm. 
 - I built the helper functions so that it can be used in a `tidymodels` workflow. 
